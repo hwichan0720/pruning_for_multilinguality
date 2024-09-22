@@ -1,0 +1,11 @@
+outputs/*
+*.log
+*cache*
+*.png
+.python-version
+*experiment*.sh
+__pychache__
+hyp*
+ref*
+*.csv
+*.npy

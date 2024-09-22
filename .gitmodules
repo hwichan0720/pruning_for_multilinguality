@@ -1,0 +1,12 @@
+[submodule "src/wanda"]
+	path = src/wanda
+	url = https://github.com/locuslab/wanda.git
+[submodule "src/boostsa"]
+	path = src/boostsa
+	url = https://github.com/fornaciari/boostsa.git
+[submodule "src/mosesdecoder"]
+	path = src/mosesdecoder
+	url = https://github.com/moses-smt/mosesdecoder.git
+[submodule "src/self-translate"]
+	path = src/self-translate
+	url = https://github.com/juletx/self-translate.git
